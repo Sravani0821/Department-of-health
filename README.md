@@ -16,6 +16,6 @@ The main purpose of this project was to build and maintain a secure, scalable, a
 - Version Control and CI/CD: Git, Jenkins
 - Testing: Unit Testing, Integration Testing
 - Tools and Technologies: Real-time monitoring tools (e.g., Prometheus, Grafana, ELK Stack)
-                        - Logging tools (e.g., Logstash, Kibana)
-                        - Reporting tools (custom dashboards)
+                        Logging tools (e.g., Logstash, Kibana)
+                        Reporting tools (custom dashboards)
 - Development Methodologies: Agile (Scrum)
